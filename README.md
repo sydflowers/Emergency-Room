@@ -1,6 +1,6 @@
 # Emergency Room Visits Dashboard
 
-![Tableau Snapshot](https://github.com/sydflowers/Emergency-Room/blob/dae3560fd65ac626db5d9c99645ab3fcf544f6dd/Dashbaord.png)
+![Tableau Snapshot](https://github.com/sydflowers/Emergency-Room/blob/63c709047ed8c61a50404f10ca080c23da4b4d2d/DashboardViz.png)
 (https://public.tableau.com/app/profile/sydney3387/viz/EmergencyRoom_17107900945840/Dashboard1?publish=yes)
 
 ## Purpose: To document creation of the Tablaau Dashbaord visualization of the Emercency Room Visit data
