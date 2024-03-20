@@ -3,9 +3,11 @@
 ![Tableau Snapshot](https://github.com/sydflowers/Emergency-Room/blob/63c709047ed8c61a50404f10ca080c23da4b4d2d/DashboardViz.png)
 (https://public.tableau.com/app/profile/sydney3387/viz/EmergencyRoom_17107900945840/Dashboard1?publish=yes)
 
-## Purpose: To document creation of the Tablaau Dashbaord visualization of the Emercency Room Visit data
+## Purpose: 
+To document creation of the Tableau Dashbaord visualization of the Emercency Room Visit data
 
-## Data Source: This is from Real World Fake Data, no actual personal data was utilized for this analysis. Data can be downloaded here: https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv
+## Data Source: 
+This is from Real World Fake Data, no actual personal data was utilized for this analysis. Data can be downloaded here: https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv
 Note: The data contains a column called 'dmin Flag' which was not used for the analysis. 
 
 ## Process:
